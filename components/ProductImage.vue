@@ -1,5 +1,5 @@
 <template>
-<div class="product-image">
+<div>
   <p class="text-center text-4xl text-gray-900 font-bold mt-8 pt-8">
     E-commerce product customization page in Nuxt.js
   </p>
