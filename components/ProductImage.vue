@@ -4,7 +4,7 @@
     E-commerce product customization page in Nuxt.js
   </p>
   <div
-    class="relative flex items-top justify-center min-h-screen sm:items-center sm:pt-0"
+    class="relative flex items-top justify-center mt-16 sm:items-center sm:pt-0"
   >
     <ProductZoomer :base-images="images" :base-zoomer-options="zoomerOptions" />
   </div>
