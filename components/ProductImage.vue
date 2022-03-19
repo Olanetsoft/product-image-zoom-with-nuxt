@@ -1,10 +1,10 @@
 <template>
 <div class="product-image">
-  <p class="text-center text-5xl text-gray-900 font-bold mt-8 pt-8">
+  <p class="text-center text-4xl text-gray-900 font-bold mt-8 pt-8">
     E-commerce product customization page in Nuxt.js
   </p>
   <div
-    class="relative flex items-top justify-center min-h-screen sm:items-center pt-2 sm:pt-0"
+    class="relative flex items-top justify-center min-h-screen sm:items-center sm:pt-0"
   >
     <ProductZoomer :base-images="images" :base-zoomer-options="zoomerOptions" />
   </div>
