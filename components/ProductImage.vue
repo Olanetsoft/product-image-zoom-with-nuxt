@@ -3,10 +3,9 @@
   <p class="text-center text-4xl text-gray-900 font-bold mt-8 pt-8">
     E-commerce product customization page in Nuxt.js
   </p>
-  <!-- <div
+  <div
     class="relative flex items-top justify-center mt-16 sm:items-center sm:pt-0"
-  > -->
-  <div>
+  >
     <ProductZoomer :base-images="images" :base-zoomer-options="zoomerOptions" />
   </div>
 </div>
